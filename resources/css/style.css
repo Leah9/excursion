@@ -1,6 +1,7 @@
 body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 
 h1 {
@@ -16,3 +17,7 @@ h2 {
 
 }
 
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
